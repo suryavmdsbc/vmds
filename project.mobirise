@@ -879,7 +879,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/1-omux1g4hukwajqbgxhitjg-1280x720.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -893,24 +893,6 @@
                 "contentAlign": "center",
                 "text": "Websites and Apps build by us are very secure<br>because we use our own server protected with&nbsp;<br>BLACK VIRUS",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
-              },
-              {
-                "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=FHW039JbwIQ",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "FOR NEW YEAR",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "&nbsp;GET EXISTING NEW YEAR GIFTS",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.2"
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/3.jpg",
