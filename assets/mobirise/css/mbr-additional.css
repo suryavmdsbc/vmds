@@ -1846,6 +1846,27 @@ body {
 .cid-qwM2OZoFg0 .mbr-section-subtitle {
   letter-spacing: .2rem;
 }
+.cid-qwMaip4oSb {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-qwMaip4oSb .image-block {
+  margin: auto;
+}
+.cid-qwMaip4oSb figcaption {
+  position: relative;
+}
+.cid-qwMaip4oSb figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qwMaip4oSb .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qwIV2bknDU {
   padding-top: 90px;
   padding-bottom: 90px;
